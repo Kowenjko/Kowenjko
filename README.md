@@ -4,7 +4,7 @@ Frontend Developer with 4 years 2 months of commercial experience. I specialize 
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=vite,appwrite,tailwindbootstrap,materialui,cloudflare,postgres,prisma,firebase,mongodb,mysql,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,appwrite,tailwind,bootstrap,materialui,cloudflare,postgres,prisma,firebase,mongodb,mysql,supabase&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,react,redux,py,django,fastapi,phplaravel&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,nodejs,figma,ps,linux,ubuntu&theme=dark)](https://skil,licons.dev)
 
