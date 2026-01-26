@@ -6,7 +6,7 @@ In addition to frontend, I have practical experience with partial fullstack deve
 
 
 ---
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,react,redux,py,django,fastapi,nodejs,postgres,mongodb,mysql,prisma,supabase,firebase,git,docker,linux,ubuntu,cloudflare,vscode,figma,ps&theme=dark&size=24" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,react,redux,py,django,fastapi,nodejs,postgres,mongodb,mysql,prisma,supabase,firebase,git,docker,linux,ubuntu,cloudflare,vscode,figma,ps&theme=dark&size=24" max-width="500px"/>
 
 
 
