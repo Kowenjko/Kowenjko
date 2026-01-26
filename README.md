@@ -6,6 +6,6 @@ Frontend Developer with 4 years 2 months of commercial experience. I specialize 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,react,redux,py,django,fastapi,phplaravel&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,nodejs,figma,ps,linux,ubuntu&theme=dark)](https://skil,licons.dev)
 --
-![Kowenjko](https://github-readme-stats.vercel.app/api?username=Kowenjko&show_icons=true&theme=tokyonight)
+#![Kowenjko](https://github-readme-stats.vercel.app/api?username=Kowenjko&show_icons=true&theme=tokyonight)
 --
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowenjko&layout=compact)
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowenjko&layout=compact)
