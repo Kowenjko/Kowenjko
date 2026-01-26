@@ -4,20 +4,18 @@ Frontend Developer with 4+ years of commercial experience. Specialized in Vue 3 
 
 Experienced in React / Next.js, familiar with backend development using Python (FastAPI, Django). Proactive team player focused on delivering real business value.
 
----
-
-### 🛠 Tech Stack
+--
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,react,redux&theme=dark&size=32" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,pinia,react,redux&theme=dark&size=28" />
 
 #### Backend / Databases
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,postgres,mongodb,mysql,prisma,supabase,firebase&theme=dark&size=32" />
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,postgres,mongodb,mysql,prisma,supabase,firebase&theme=dark&size=28" />
 
 #### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,cloudflare,vscode,figma,ps&theme=dark&size=32" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,cloudflare,vscode,figma,ps&theme=dark&size=28" />
 
----
+--
 
 ### 📊 GitHub Stats
 <p align="center">
