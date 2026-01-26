@@ -7,3 +7,5 @@ Frontend Developer with 4 years 2 months of commercial experience. I specialize 
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,nodejs,figma,ps,linux,ubuntu&theme=dark)](https://skil,licons.dev)
 --
 ![Kowenjko](https://github-readme-stats.vercel.app/api?username=Kowenjko&show_icons=true&theme=tokyonight)
+--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kowenjko&repo=github-readme-stats)](https://github.com/Kowenjko/github-readme-stats)
