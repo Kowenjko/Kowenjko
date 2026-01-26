@@ -8,4 +8,4 @@ Frontend Developer with 4 years 2 months of commercial experience. I specialize 
 --
 ![Kowenjko](https://github-readme-stats.vercel.app/api?username=Kowenjko&show_icons=true&theme=tokyonight)
 --
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kowenjko&repo=github-readme-stats)](https://github.com/Kowenjko/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kowenjko&repo=nuxt-4-portfolio)](https://github.com/Kowenjko/github-readme-stats)
