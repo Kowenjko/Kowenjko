@@ -1,5 +1,6 @@
-## Hi there 👋 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+%7C+Vue+Nuxt+React+%7C+TypeScript;Full-Stack Capabilities;" alt="Typing SVG" />
+## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+%7C+Vue+Nuxt+React+%7C+TypeScript;Full-Stack+Capabilities;" alt="Typing SVG" />
 </div>
 
 Frontend Developer with 3 years of commercial experience, primarily focused on Vue 3 / Nuxt 3. I build high-performance, scalable web applications with clean architecture, strong UI/UX, and reliable API integration. Experienced in working with both product teams and international clients.
