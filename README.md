@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=478be6&center=true&vCenter=true&width=600&lines=Frontend+%7C+Vue/Nuxt/React+%7C+TypeScript;Full-Stack+Capabilities;" alt="Typing SVG" />
 </div>
 
-Frontend Developer with 3 years of commercial experience, primarily focused on Vue 3 / Nuxt 3. I build high-performance, scalable web applications with clean architecture, strong UI/UX, and reliable API integration. Experienced in working with both product teams and international clients.
+Frontend Developer with 2+ years of commercial experience, primarily focused on Vue 3 / Nuxt 3. I build high-performance, scalable web applications with clean architecture, strong UI/UX, and reliable API integration. Experienced in working with both product teams and international clients.
 
 I also have commercial experience working with React / Next.js, and practical experience with partial fullstack development, including backend APIs and services using Python (FastAPI, Django) and Node.js. 
 
